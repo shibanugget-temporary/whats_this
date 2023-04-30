@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+#ukon {
+    margin: 20% 50% 50% 43%;
+    width: 200px;
+}
+
+.unko {
+    color: #52607c;
+    background-color: #eeeeee;
+}
+
+#ukon:hover {
+    color: rgb(118, 161, 161)
+
+}
